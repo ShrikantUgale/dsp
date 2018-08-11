@@ -53,13 +53,13 @@ Did you install Python 2 or 3? Why?
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
-### Q2. Which Python Version Installed   
+### python3   
 
 In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Python 3.6.5
 
  
 
