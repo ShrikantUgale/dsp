@@ -20,7 +20,7 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > pwd, mkdir dirName, rmdir dirName, touch file, rm file, mv file.ext new_name.ext, ls -lah, cp source dest 
 
 ---
 
@@ -35,7 +35,7 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > `ls` command with various options shows, list of files and directories.
 
 ---
 
